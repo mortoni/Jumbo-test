@@ -1,4 +1,4 @@
 export const ROUTES = {
   HOME: '/',
-  DETAILS: '/details',
+  DETAILS: '/movie/:movieId',
 }
